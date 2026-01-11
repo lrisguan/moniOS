@@ -91,7 +91,7 @@ source .venv/bin/activate
 > `http://localhost:6789`
 
 > [!IMPORTANT]
-> you must use sudo to your elevate privileges or you can't use Network Traffic Monitoring
+> you must use sudo to elevate your privileges or you can't use Network Traffic Monitoring
 
 > [!NOTE]
 > if you find you could not install the required python packages, you can install them without `pip install -r requirements.txt` <br>
